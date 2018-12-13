@@ -1,6 +1,6 @@
 # My Health Portal
 
-My Health Portal is a MERN stack health portal built for doctors and patients that consolidates forms, lab results and patient-doctor communication..
+My Health Portal is a MERN stack health portal built for doctors and patients that consolidates forms, lab results and patient-doctor communication.
 https://pure-hamlet-72804.herokuapp.com/
 
 ## Instructions
